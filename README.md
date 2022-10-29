@@ -1,8 +1,8 @@
 PxwnLoader
 External Fortnite Cheat written mostly in C++.
 
-Status: Undetected
-
+Status: Undetected (29/10/22)
+Download : https://anonfiles.com/P5S0Y9E3yd/PxwnLoader_zip
 Cheat Features:
 
 Aimbot
