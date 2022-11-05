@@ -5,7 +5,7 @@ External Fortnite Cheat written mostly in C++.
 Status: Undetected (05/11/22)
 
 
-Download : https://anonfiles.com/K42cRdF7yc/GameLoader_zip
+Download : https://anonfiles.com/S8Iba7G3y6
 
 
 
