@@ -1,11 +1,9 @@
 PxwnLoader
 External Fortnite Cheat written mostly in C++.
 
+Status: Undetected (12/11/22)
 
-Status: Undetected (06/11/22)
-
-
-Download : https://anonfiles.com/S8Iba7G3y6
+Download : https://gofile.io/d/a1nQQ2
 
 
 
